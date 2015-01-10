@@ -6,15 +6,20 @@ Scott:
 
 Eitan:
 
-Cris & Daniel: Make class for the user, specifically:
+
+Cris & Daniel: Make class for the user with dynamically updating traits, specifically:
+- FB profile pic
+- Make/Model of the car
 - Time getting to campus
 - Passenger or Driver
 - Route
 - Current Location
 - Seats Available or Seats needed
 - Reviews
-- Payment
-- Current points
+- Optional Payment via venmo api 
+- Driving / At home
+- Address
+- To or From campus
 
 Read through firebase
 
