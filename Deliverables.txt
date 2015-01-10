@@ -1,6 +1,7 @@
 Deliverables (1/9/2015 @ 4:45pm)
 
 Nick:
+<<<<<<< HEAD
 - Sketches
 - Photoshop mockups
 	for:
@@ -13,10 +14,22 @@ Nick:
 	- Passenger profile
 	- Settings
 	- Spash screen
+=======
+- Currently working on driver map page, to be completed by tonight
+>>>>>>> origin/master
 
 Scott:
+- Firebase to be done by tonight
+- Split workload with Delan
 
 Eitan:
+- Maps
+- Android Studio
+- Locations: fine vs coarse
+- Update intervals
+- Geofencing
+
+Currently doing: Example project
 
 
 Cris & Daniel: Make class for the user with dynamically updating traits, specifically:
@@ -34,6 +47,15 @@ Cris & Daniel: Make class for the user with dynamically updating traits, specifi
 - To or From campus
 - Phone number
 
-Read through firebase
+Next steps:
+- Install Firebase
+- Start User profiles 
+
+Read through firebase?
 
 Delan:
+- Currently installing Java, Android SDK, Github
+
+Next steps:
+- Get up to date from Scott
+- Get work from Scott
