@@ -15,3 +15,4 @@
 	- Settings
 	- Spash screen
 	- Log in screen
+	- Create account
