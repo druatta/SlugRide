@@ -1,7 +1,6 @@
 Deliverables (1/9/2015 @ 4:45pm)
 
 Nick:
-<<<<<<< HEAD
 - Sketches
 - Photoshop mockups
 	for:
@@ -16,7 +15,6 @@ Nick:
 	- Spash screen
 =======
 - Currently working on driver map page, to be completed by tonight
->>>>>>> origin/master
 
 Scott:
 - Firebase to be done by tonight
