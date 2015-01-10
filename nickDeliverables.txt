@@ -6,7 +6,9 @@
 	- Driver map
 		complete
 	- Passenger request
+		complete
 	- Driver post
+		complete
 	- Side menu
 		complete
 	- User profile
