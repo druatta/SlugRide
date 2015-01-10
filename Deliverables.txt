@@ -6,8 +6,16 @@ Scott:
 
 Eitan:
 
-Cris:
+Cris & Daniel: Make class for the user, specifically:
+- Time getting to campus
+- Passenger or Driver
+- Route
+- Current Location
+- Seats Available or Seats needed
+- Reviews
+- Payment
+- Current points
 
-Daniel:
+Read through firebase
 
 Delan:
