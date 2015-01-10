@@ -1,6 +1,18 @@
 Deliverables (1/9/2015 @ 4:45pm)
 
 Nick:
+- Sketches
+- Photoshop mockups
+	for:
+	- Passenger map
+	- Driver map
+	- Passenger request
+	- Driver post
+	- Side menu
+	- Driver profile
+	- Passenger profile
+	- Settings
+	- Spash screen
 
 Scott:
 
