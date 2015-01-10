@@ -20,6 +20,7 @@ Cris & Daniel: Make class for the user with dynamically updating traits, specifi
 - Driving / At home
 - Address
 - To or From campus
+- Phone number
 
 Read through firebase
 
