@@ -11,8 +11,14 @@
 		complete
 	- Side menu
 		complete
-	- User profile
-	- Settings
-	- Spash screen
 	- Log in screen
+		complete
 	- Create account
+		complete
+	- Profile
+		complete
+	- User reviews
+		complete
+	- Transaction complete
+	- Driver: select riders
+	- Splash screen
