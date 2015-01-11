@@ -12,6 +12,8 @@ public class User {
     private String model; // dynamic
     private String color; // dynamic
     private boolean driver; // dynamic
+    private int ridesGiven; // dynamic
+    private int ridesReceived; // dynamic
     private int minute; // dynamic
     private int hour; // dynamic
     //TBD: Current location, to be pulled from maps, dynamic
@@ -20,7 +22,7 @@ public class User {
     private String[] reviews; // dynamic. How can multiple users access this?
     //TBD: payment method
     private boolean driving; // dynamic
-    private String address; // dynamic
+    // private String address; // dynamic - TBD
     private boolean toCampus; // dynamic. Incomplete
     private int phone; // dynamic
 
@@ -79,6 +81,22 @@ public class User {
         this.driver = driver;
     }
 
+    public int getRidesGiven() {
+        return this.ridesGiven;
+    }
+
+    public void setRidesGiven(int ridesGiven) {
+        this.ridesGiven = ridesGiven;
+    }
+
+    public int getRidesReceived() {
+        return this.ridesReceived;
+    }
+
+    public void setRidesReceived(int ridesReceived) {
+        this.ridesReceived = ridesReceived;
+    }
+
     public int getMinute(){
         return this.minute;
     }
@@ -119,13 +137,14 @@ public class User {
         this.driving = driving;
     }
 
+/*   TBD - get and set Address
     public String getAddress() {
         return this.address;
     }
 
     public void setAddress(String address) {
         this.address = address;
-    }
+    } */
 
     public boolean getToCampus() {
         return this.toCampus;
