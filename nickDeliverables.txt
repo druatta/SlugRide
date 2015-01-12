@@ -20,5 +20,26 @@
 	- User reviews
 		complete
 	- Transaction complete
+		complete
 	- Driver: select riders
 	- Splash screen
+
+
+
+XML files:
+	- Passenger map
+	- Driver map
+	- Passenger request
+	- Driver post
+	- Side menu
+		Eitan
+	- Log in screen
+		Nick - complete
+	- Create account
+		Nick - complete
+	- Profile
+		Delan - complete
+	- User reviews
+		Nick
+	- Ride complete
+		Nick - complete
